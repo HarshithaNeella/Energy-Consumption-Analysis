@@ -3,6 +3,7 @@
 ## 🚀 Overview  
 This project focuses on analyzing global energy trends using structured datasets containing information on energy consumption, production, carbon emissions, GDP, and population across multiple countries and years.
 The entire analysis was performed using SQL, with optimized queries that reveal insights into global sustainability, resource usage, and environmental impact.
+
 📌 Project Objectives
 
 ✔ Analyze how countries produce and consume energy
@@ -20,6 +21,7 @@ GDP	GDP (Economic growth indicator)
 Country	Country metadata for mapping all tables
 
 🔍 SQL Analytics Performed
+
 📊 General Analysis
 
 Top/lowest consumers & producers
@@ -47,16 +49,22 @@ Energy efficiency score by country
 
 ## 🛠️ Tech Stack & Tools
 
-- SQL dialect: (e.g., MySQL / PostgreSQL / SQLite — choose your DBMS)  
-- Any SQL client (MySQL Workbench, pgAdmin, sqlite3, etc.)  
+- SQL dialect: (e.g., MySQL / PostgreSQL / SQLite — choose your DBMS)
+  
+- Any SQL client (MySQL Workbench, pgAdmin, sqlite3, etc.)
+    
 - ER-diagram
 
   📊 Key Insights
 
 📍 India & China lead in global energy demand driven by massive population
+
 📍 Coal & oil remain dominant contributors to emissions
+
 📍 Renewable energy adoption is growing but still secondary
+
 📍 Some countries produce more energy than they consume
+
 📍 Countries with rising GDP also show increased energy use and CO₂ output
 
 
